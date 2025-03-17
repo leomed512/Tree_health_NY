@@ -5,7 +5,7 @@ This project analyzes the health status of street trees in urban areas of New Yo
 Determine whether there is a statistically significant association between tree species (spc_latin) and tree health status.
 Identify the most common tree species and assess their respective health conditions.
 
-## 📂 Data Source
+## Data Source
 The dataset used is the TreesCount! 2015 Street Tree Census, conducted by volunteers and staff organized by NYC Parks & Recreation and partner organizations.
 
  [NYC Open Data - Trees](https://data.cityofnewyork.us/browse?q=trees&sortBy=relevance&page=1&pageSize=20)
