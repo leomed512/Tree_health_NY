@@ -66,7 +66,7 @@ For this variable, extreme outliers were detected and addressed to minimize data
 ### Statistical tests:
 #### 1. Chi-squared of independence (for categorical variables)
 
-###### Results
+##### Results
 Chi2 statistic: 16732.70
 p value: 0.0000000000
 Degrees of freedom: 226
@@ -78,11 +78,10 @@ Because p-value is so low, almost cero (statistically significant) and Chi2 is v
 #### 2. Cramer's V
 Therefore, Cramer's V coefficient could properly complement the analysis by providing a standardized measure of the GLOBAL strength of the association between pairs of variables, which, along with Pearson's standardized residuals, will give a better picture of the relationship between tree species and their health status.
 
-###### Results
-'Cramer V value is : 0.11326304101368438, weak to moderate asociation'
-In order
+##### Results
+Cramer V value is : 0.11326304101368438, weak to moderate asociation. It influences 11.32% in tree's health
 
-#### 3. #### Pearson's adjusted residuals (post hoc chi-squared)
+#### 3. Pearson's adjusted residuals (post hoc chi-squared)
 
 In order identify local associations and detect remarkable combinations (species/health status). 
 ![](images/species_map_by_health.png) 
