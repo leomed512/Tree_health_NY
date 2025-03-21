@@ -91,9 +91,9 @@ Pearson's adjusted residuals (post hoc chi-squared) (for categorical variables)
 Pearson's adjusted residuals Heatmap: identify local associations and detect remarkable combinations (species/health status). 
 ![](images/species_map_by_health.png) 
 
+Species association to health (Pearson's adjusted residuals)
 ![](images/species_health_comparision.png) 
 
 ##### Future steps
--A machine learning classification model could be developed to predict tree health status (Good, Fair, Poor). 
-
+- A machine learning classification model could be developed to predict tree health status (Good, Fair, Poor). 
 - Investigate the specific characteristics of species showing better health (such as Platanus x acerifolia, Gleditsia triacanthos and others).
